@@ -1,0 +1,146 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    background: #EEEEEE;
+}
+
+.about .profile{
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+
+.about .profile img{
+    border: 5px solid #ffffff;
+    border-radius: 100%;
+}
+
+.about .text{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+.text .texta{
+    font-size: 40px;
+}
+
+.diplo{
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.diplo .title{
+    padding: 0 15px 5px 15px;
+    border-bottom: 4px solid #000;
+    margin: 0 15px 0 15px;
+}
+
+.diplo .listas{
+    list-style: none;
+    margin: 0 20px 0 20px;
+}
+
+.diplo .listas li{
+    padding: 20px 15px 10px 0px;
+}
+
+.networks{
+    margin-top: 70px;
+}
+
+.networks .title{
+    padding: 0 15px 5px 15px;
+    border-bottom: 4px solid #000;
+    margin: 0 15px 0 15px;
+}
+
+.contenedor_icons{
+    margin-top: 13px;
+
+}
+
+.networks .icons .icon{
+    text-align: center;
+    display: block;
+    border-radius: 3px;
+    font-size: 50px;
+}
+
+.icon .gh{
+    color: #4078c0;
+}
+
+.icon .li{
+    color: #0077b5;
+}
+
+.icon .tw{
+    color: #1da1f2;
+}
+
+.icon .yt{
+    color: #ff0000;
+}
+
+.row .present{
+    margin-top: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.row .present h1{
+    font-weight: 400;
+    font-size: 48px;
+    font-family: 'Roboto Slab', serif;
+    padding: 5px 25px;
+}
+
+.row .present p{
+    font-weight: 300;
+    font-size: 28px;
+    font-family: 'Roboto Slab', serif;
+    padding: 0px 25px;
+}
+
+.row .titleP{
+    display: inline-block;
+    width: 600px;
+    padding: 0 25px 5px 15px;
+    border-bottom: 4px solid #000;
+    margin: 0 15px 10px 15px;
+}
+
+.row .contenedor_galeria{
+    margin-top: 15px;
+}
+
+.contenedor_galeria .galeria{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 13%;
+}
+
+.contenedor_galeria .galeria img{
+    width: 100%;
+    height: auto;
+}
+
+.contenedor_galeria .galeria .pie{
+    text-align: center;
+    padding: 10px;
+}
+
+.contenedor_galeria .cont_gal{
+    margin: 15px 5px 15px 5px;
+}
+
+.row .titlegal{
+    display: inline-block;
+    width: 600px;
+    padding: 0 25px 5px 15px;
+    border-bottom: 4px solid #000;
+    margin: 0 15px 10px 15px;
+}
